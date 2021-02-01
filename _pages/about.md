@@ -105,7 +105,7 @@ image: jshoon2.jpg
 
 ![]({{ site.baseurl }}/images/ssgmart_3.png)
 
-![ssgmart_4](C:/Workspace/Algorithm2/Algorithm/src/ssgmart_4.png)
+![]({{ site.baseurl }}/images/ssgmart_4.png)
 
 ##### CNN으로 face detection kaggle
 
