@@ -5,22 +5,108 @@ permalink: /about/
 image: jshoon2.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+### Profile
 
-***
+#### 학교
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+- 건국대학교(2010.03 - 2017.08)
+  환경과학과(4.21 / 4.5)
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+#### 직장
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+- 신세계아이앤씨(2019.04 - 현재)
+  AI팀 - AI개발
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+#### 메일
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+- jshjsh06@naver.com
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+#### 깃헙
+
+- https://github.com/jshjsh06
+
+
+
+### Introduce
+
+#### 관심분야
+
+- AI, Data Engineering, Database, Front & Back End
+
+#### 자기소개
+
+- 
+
+#### 경력
+
+- 신세계아이앤씨, AI 개발(2019.04 - 현재)
+  - 유통업 데이터 분석 및 수요예측 메인 개발
+  - TV쇼핑 방송편성 최적화 PoC 참여
+  - 백화점 챗봇 구축 참여
+- 환경사회학 연구실, 학부생 연구원(2015.02 ~ 2017.08)
+  -  '귀산촌 활성화 연구' 프로젝트 참여. 귀산촌 600만 개 원자료 데이터 분석
+
+#### 주요 활동 및 수상실적
+
+- 2018 삼성멀티캠퍼스X멋쟁이사자처럼 아이디어톤 및 해커톤 최우수상
+- 2020 고용노동부 주관 신세계아이앤씨 인턴 서비스기반의 웹 프로그래밍 구현과정 최종 프로젝트 1위
+- 신세계아이앤씨 외부 매체 활동
+  - 유통 수요예측 https://www.news1.kr/articles/?3897513
+  - AI https://post.naver.com/viewer/postView.nhn?volumeNo=26919904&memberNo=42472601
+
+#### class
+
+- 지능형 IoT 서비스 개발 전문가(2017.12.15 - 2018.07.25)
+  - 148일, 총 1184시간
+- 딥러닝 기반 핵심 산업별 빅데이터 분석 전문가 과정
+- 신세계아이앤씨 인턴 - 서비스기반의 웹 프로그래밍 구현과정(2019.01.21 - 2019.03.28)
+  - 34일, 총 272시간
+
+#### 보유 기술
+
+- Programming Language
+  - Python, Java, Javascript, Ruby
+- Frontend & Backend Framework
+  - Spring, Flask
+- IoT
+  - Raspberry PI, Cortex-M4
+- Infra
+  - AWS, GCP, Docker
+- Database
+  - SQL
+
+
+
+### Work Experience
+
+- 이마트 수요예측
+- 이마트 에브리데이 수요예측
+- 백화점 챗봇
+- TV쇼핑 방송편성?
+
+
+
+### Other Experience
+
+#### 기타 프로젝트
+
+##### 챗팟
+
+- ![]({{ site.baseurl }}/images/챗팟_구성도.png)
+- https://www.youtube.com/watch?v=gO0HlUTi7-4
+
+##### PT HEATS
+
+- ![]({{ site.baseurl }}/images/heats.png)
+
+##### 폐기 상품
+
+- ![]({{ site.baseurl }}/images/ssgmart_2.gif)
+
+![]({{ site.baseurl }}/images/ssgmart_3.png)
+
+![ssgmart_4](C:/Workspace/Algorithm2/Algorithm/src/ssgmart_4.png)
+
+##### CNN으로 face detection kaggle
+
+- ![]({{ site.baseurl }}/images/facial.png)
