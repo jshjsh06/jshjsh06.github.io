@@ -3,10 +3,8 @@ layout: post
 title:  머신러닝 기본 요약(책 : 파이썬 라이브러리를 활용한 머신러닝)
 date:   2021-02-02 23:47:00
 image:  introduce_to_machine_learning_with_python.jpg
-tags:   [머신러닝, 파이썬_라이브러리를_활용한_머신러닝]
+tags:   머신러닝
 ---
-
-
 
 
 
