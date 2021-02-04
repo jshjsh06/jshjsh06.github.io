@@ -80,8 +80,8 @@ image: jshoon2.jpg
 ### Work Experience
 
 - 이마트 수요예측
-  - ![]({{ site.baseurl }}/images/demand_forecasting_infra1)
-  - ![]({{ site.baseurl }}/images/demand_forecasting_infra2)
+  - ![]({{ site.baseurl }}/images/demand_forecasting_infra1.jpg)
+  - ![]({{ site.baseurl }}/images/demand_forecasting_infra2.jpg)
 - 이마트 에브리데이 수요예측
 - 백화점 챗봇
 - TV쇼핑 방송편성?
