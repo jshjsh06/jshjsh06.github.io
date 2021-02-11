@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: jshoon3.jpg
+image: jshoon2.jpg
 ---
 
 ### Profile
